@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python Programming Language.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...j_cristo2003@yahoo.com.br
+- 📫 How to reach me: j_cristo2003@yahoo.com.br
 - 💞️ Thanks.
 
 <!---
